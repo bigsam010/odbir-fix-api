@@ -1,0 +1,14 @@
+C:\Users\SamuelOmotoso\source\repos\birfix\bin\Debug\netcoreapp2.1\birfix.deps.json
+C:\Users\SamuelOmotoso\source\repos\birfix\bin\Debug\netcoreapp2.1\birfix.runtimeconfig.json
+C:\Users\SamuelOmotoso\source\repos\birfix\bin\Debug\netcoreapp2.1\birfix.runtimeconfig.dev.json
+C:\Users\SamuelOmotoso\source\repos\birfix\bin\Debug\netcoreapp2.1\birfix.dll
+C:\Users\SamuelOmotoso\source\repos\birfix\bin\Debug\netcoreapp2.1\birfix.pdb
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.csprojAssemblyReference.cache
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.csproj.CoreCompileInputs.cache
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.RazorAssemblyInfo.cache
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.RazorAssemblyInfo.cs
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.AssemblyInfoInputs.cache
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.AssemblyInfo.cs
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.RazorTargetAssemblyInfo.cache
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.dll
+C:\Users\SamuelOmotoso\source\repos\birfix\obj\Debug\netcoreapp2.1\birfix.pdb

@@ -1,0 +1,14 @@
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\bin\Release\netcoreapp2.1\OdbirReportingFix.deps.json
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\bin\Release\netcoreapp2.1\OdbirReportingFix.runtimeconfig.json
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\bin\Release\netcoreapp2.1\OdbirReportingFix.runtimeconfig.dev.json
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\bin\Release\netcoreapp2.1\OdbirReportingFix.dll
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\bin\Release\netcoreapp2.1\OdbirReportingFix.pdb
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.csproj.CoreCompileInputs.cache
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.RazorAssemblyInfo.cache
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.RazorAssemblyInfo.cs
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.AssemblyInfoInputs.cache
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.AssemblyInfo.cs
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.RazorTargetAssemblyInfo.cache
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.dll
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.pdb
+C:\Users\SamuelOmotoso\source\repos\OdbirReportingFix\OdbirReportingFix\obj\Release\netcoreapp2.1\OdbirReportingFix.csprojAssemblyReference.cache
